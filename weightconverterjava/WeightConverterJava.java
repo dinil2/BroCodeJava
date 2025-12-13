@@ -34,7 +34,7 @@ public class WeightConverterJava {
         }
         
         //option 2 convert kg to lbs
-        if(choice == 2){
+        else if(choice == 2){
             System.out.print("Enter the weight in kgs: ");
             weight = scanner.nextDouble();
             newWeight = weight * 2.20462;
