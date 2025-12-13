@@ -17,12 +17,10 @@ public class TemaryOperatorJava {
     }
 }
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-
-/* package com.mycompany.temaryoperatorjava;
+package com.mycompany.temaryoperatorjava;
 
 public class TemaryOperatorJava {
 
@@ -41,10 +39,9 @@ public class TemaryOperatorJava {
         
     }
 }
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*/
-
-/* package com.mycompany.temaryoperatorjava;
+package com.mycompany.temaryoperatorjava;
 
 public class TemaryOperatorJava {
 
@@ -63,4 +60,4 @@ public class TemaryOperatorJava {
     }
 }
 
-*/
+
