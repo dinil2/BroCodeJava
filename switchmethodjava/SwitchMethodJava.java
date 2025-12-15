@@ -30,8 +30,9 @@ public class SwitchMethodJava {
     }
 }
 
+------------------------------------------------------------------------------------------------------------------------------------
 
-/*System.out.print("The day is: ");
+        System.out.print("The day is: ");
         day = scanner.next();
         
         switch(day){
@@ -41,4 +42,3 @@ public class SwitchMethodJava {
                            System.out.println("It is a weekend");
             default -> System.out.println(day + " is not a day");
         }
-*/
